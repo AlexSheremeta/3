@@ -1,0 +1,59 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+.header {
+	color: blue;
+}
+p > span {
+	color: rgb(0, 255, 76);
+}
+
+#begin {
+	color: darkblue;
+}
+
+.main.text {
+	color: darkgreen;
+}
+.rates {
+	color: darkmagenta;
+}
+#girlsrulesanyway {
+	color: darkorange;
+}
+.menisonfire {
+	color: deeppink;
+}
+.hobbitfromgot {
+	color: rgb(219, 13, 219);
+}
+.mainscreen>p {
+	color: maroon;
+}
